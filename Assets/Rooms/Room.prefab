@@ -371,8 +371,16 @@ PrefabInstance:
       value: FloorOverlay
       objectReference: {fileID: 0}
     - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 9.9375
+      objectReference: {fileID: 0}
+    - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 10.757472
+      objectReference: {fileID: 0}
+    - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
       propertyPath: m_LocalPosition.y
@@ -380,7 +388,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 2817440373132421615, guid: 584ea23e98223944a8b443d4a0871884, type: 3}
       propertyPath: m_LocalRotation.w
