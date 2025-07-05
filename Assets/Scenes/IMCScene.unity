@@ -1985,7 +1985,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &624091365
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4485,6 +4485,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1538169815}
     m_Modifications:
+    - target: {fileID: 1198933606841375964, guid: 08941169fc669d646a1eea5b1f4eefd5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 269a15aa18e7642a696fa79125dc3e4e, type: 2}
     - target: {fileID: 2442816558523922544, guid: 08941169fc669d646a1eea5b1f4eefd5, type: 3}
       propertyPath: m_Name
       value: Wall (4)
@@ -4726,7 +4730,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1233368208
 Transform:
   m_ObjectHideFlags: 0
@@ -7326,7 +7330,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1971087369
 Transform:
   m_ObjectHideFlags: 0
