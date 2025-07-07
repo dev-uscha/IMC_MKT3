@@ -6263,7 +6263,7 @@ MonoBehaviour:
   gravity: -9.81
   jumpHeight: 1.2
   cameraTransform: {fileID: 369471181}
-  mouseSensitivity: 100
+  mouseSensitivity: 300
 --- !u!143 &1797622606
 CharacterController:
   m_ObjectHideFlags: 0
@@ -8111,6 +8111,14 @@ PrefabInstance:
     - target: {fileID: 9071107105233145201, guid: 41f6460bd7c1047fabcf902f56e73a77, type: 3}
       propertyPath: m_Layer
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076794587576619287, guid: 41f6460bd7c1047fabcf902f56e73a77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -284.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076794587576619287, guid: 41f6460bd7c1047fabcf902f56e73a77, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 126.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
