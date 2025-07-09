@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 30b3d184f7cc7964daa32521c887c470, type: 2}
     - target: {fileID: 4273375798250142680, guid: 6f5e906aa4dfd44ca9e34c94168828b2, type: 3}
       propertyPath: m_Name
-      value: Octagon room Variant
+      value: Paperlike_Octagon room Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4369935102463264030, guid: 6f5e906aa4dfd44ca9e34c94168828b2, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -84,6 +84,14 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 30b3d184f7cc7964daa32521c887c470, type: 2}
+    - target: {fileID: 6777230528582803645, guid: 6f5e906aa4dfd44ca9e34c94168828b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6777230528582803645, guid: 6f5e906aa4dfd44ca9e34c94168828b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.830518
+      objectReference: {fileID: 0}
     - target: {fileID: 8239142269961803598, guid: 6f5e906aa4dfd44ca9e34c94168828b2, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

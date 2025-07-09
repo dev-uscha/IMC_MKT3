@@ -980,6 +980,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dach
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: d1f46b386ef4748e792b448935038786, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 14ed3210f129b434f9326774348d4c29, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: -8700617353114198275, guid: d1f46b386ef4748e792b448935038786, type: 3}
