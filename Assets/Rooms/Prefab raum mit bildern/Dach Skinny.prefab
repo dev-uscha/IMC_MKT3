@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8422924938301182139
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1567.0632
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1545.3207
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1255.6012
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -78.1666
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 99.7998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57.1374
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 30b3d184f7cc7964daa32521c887c470, type: 2}
+    - target: {fileID: 919132149155446097, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}
+      propertyPath: m_Name
+      value: Dach Skinny
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8255fd84a2ace7a469e3c44a52ae3e53, type: 3}

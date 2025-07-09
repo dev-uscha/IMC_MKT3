@@ -476,7 +476,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3447548706033709455}
-  m_CullTransparentMesh: 1
+  m_CullTransparentMesh: 0
 --- !u!114 &6603469421973571543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -607,7 +607,6 @@ RectTransform:
   m_LocalScale: {x: 0.03271242, y: 0.10551036, z: 0.028694099}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5354918930358495537}
   - {fileID: 8418497515451923173}
   - {fileID: 8428631266996474783}
   - {fileID: 6774521034056549085}
@@ -622,6 +621,7 @@ RectTransform:
   - {fileID: 4011846354637041545}
   - {fileID: 6729502093401204929}
   - {fileID: 1557021604072599330}
+  - {fileID: 5354918930358495537}
   m_Father: {fileID: 4636402192211335420}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
