@@ -2,6 +2,8 @@
 From: Lilian Drabinski and Hanna Mielczarek
 
 Unity Version: 6000.0.47f
+Main Scene: Main_Follow The Flow
+(other scenes in the project are not important)
 
 How to move:
 Use WASD to move around
