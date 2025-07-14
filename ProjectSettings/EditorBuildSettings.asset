@@ -15,6 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main_Follow The Flow.unity
     guid: d86598dae742144378eaa2885377617a
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3ae8fa77fb5fb48b8a9d038f1efa0422, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 22c597ca78cfc4c8ea9bf323ded4d0a1, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c86f884c9db784ff7837bfe98771cb85, type: 2}
